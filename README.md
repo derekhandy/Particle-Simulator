@@ -21,7 +21,7 @@
 - **Stop:** Stops new particle generation. <br>
 - **Reset:** Reloads the scene back to its initial state. <br>
 <br>
-<img align="center" width="394" height="431" src="https://github.com/derekhandy/Particle-Simulator/assets/26856203/a8e5bb91-d246-43bc-83c5-30e96acf3970"> <br>
+<img align="center" width="394" height="431" src="https://github.com/derekhandy/Particle-Simulator/assets/26856203/a8e5bb91-d246-43bc-83c5-30e96acf3970"> <br> <br>
 
 - **Spawn:** Spawns new particle from type. <br>
 - **Drag:** The amount of resistance the particle exerts against any given force. <br>
