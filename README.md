@@ -31,6 +31,14 @@
 - **A, B, C, D, E, F, G:** Sets the particle's attraction and repulsion forces towards other particle types.
 <br> <br>
 
+## Preview 1
+
+<img align="center" width="1200" height="600" src="https://github.com/derekhandy/Particle-Simulator/assets/26856203/4c915a44-fded-402c-97ea-093364360015">
+
+## Preview 2
+
+<img align="center" width="1200" height="600" src="https://github.com/derekhandy/Particle-Simulator/assets/26856203/dbb6fd4f-b91c-4a30-9ac9-79dcdae4ed4f">
+
 # More Information
 
 - **Particle Type Limit:** 7
