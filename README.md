@@ -39,6 +39,10 @@
 
 <img align="center" width="800" height="500" src="https://github.com/derekhandy/Particle-Simulator/assets/26856203/dbb6fd4f-b91c-4a30-9ac9-79dcdae4ed4f">
 
+## Preview 3
+
+<img align="center" width="800" height="500" src="https://github.com/derekhandy/Particle-Simulator/assets/26856203/b759e89f-a1a6-4cc5-b510-c0763be390d6">
+
 # More Information
 
 - **Particle Type Limit:** 7
